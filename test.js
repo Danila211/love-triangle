@@ -503,3 +503,4 @@ describe('Love triangles', () => {
     assert.equal(count, 97);
   });
 });
+
